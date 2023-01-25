@@ -14,6 +14,8 @@ Ce projet est un script JavaScript qui utilise l'API SpeechSynthesis pour lire l
 3. Personnalisez la liste de mots à remplacer pour améliorer la prononciation.
 4. Utilisez l'API SpeechSynthesis pour lire le contenu en cliquant sur les boutons avec la classe "btn-speech".
 
+Exemple d'implémentation : https://cv.jprudence.com
+
 ## Note
 
 Il est important de noter que certains mots peuvent être mal prononcés par la synthèse vocale, il est donc recommandé de les remplacer par des mots qui sonnent mieux. Cependant, cela peut varier en fonction des appareils et des navigateurs utilisés.
